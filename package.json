@@ -6,7 +6,8 @@
   "author": "<deva.venkat560@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server public/"
+    "serve": "live-server public/",
+    "start": "node server/server.js"
   },
   "dependencies": {
     "express": "4.15.4",
