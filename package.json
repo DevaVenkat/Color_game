@@ -1,0 +1,15 @@
+{
+  "name": "ColorGame_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DevaVenkat/Color_game.git",
+  "author": "<deva.venkat560@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server public/"
+  },
+  "dependencies": {
+    "express": "4.15.4",
+    "live-server": "^1.2.1"
+  }
+}
